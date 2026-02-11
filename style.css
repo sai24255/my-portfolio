@@ -45,3 +45,26 @@ footer {
     padding: 20px;
     background: #14113c;
 }
+.social {
+    padding: 60px 20px;
+}
+
+.social-links {
+    margin-top: 20px;
+}
+
+.social-links a {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 20px;
+    text-decoration: none;
+    background: #b76eff;
+    color: white;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+
+.social-links a:hover {
+    background: white;
+    color: #0f0c29;
+}
