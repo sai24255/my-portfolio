@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #0f0c29;
+    color: white;
+    text-align: center;
+}
+
+nav {
+    padding: 20px;
+    background: #14113c;
+}
+
+.logo {
+    color: #b76eff;
+}
+
+.hero {
+    padding: 80px 20px;
+}
+
+.hero span {
+    color: #b76eff;
+}
+
+.about {
+    padding: 60px 20px;
+}
+
+.skills {
+    padding: 60px 20px;
+}
+
+.skills ul {
+    list-style: none;
+    padding: 0;
+}
+
+.skills li {
+    margin: 10px;
+    color: #b76eff;
+}
+
+footer {
+    padding: 20px;
+    background: #14113c;
+}
